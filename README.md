@@ -1,3 +1,6 @@
+# README from original repository
+
+
 # Paint Transformer: Feed Forward Neural Painting with Stroke Prediction
 
 > [[Paper](https://arxiv.org/abs/2108.03798)] [[Paddle Implementation](https://github.com/wzmsltw/PaintTransformer)]
