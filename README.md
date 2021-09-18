@@ -1,4 +1,4 @@
-#Original repository README
+# Original repository README
 
 # Paint Transformer: Feed Forward Neural Painting with Stroke Prediction
 
